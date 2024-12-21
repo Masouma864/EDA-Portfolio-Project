@@ -9,4 +9,4 @@ This repository contains:
 - The report provides a reference for creating professional EDA summaries.
 
 ## Author:
-- [Your Name](https://github.com/Masouma864)
+- [Masouma Modarresi](https://github.com/Masouma864)
